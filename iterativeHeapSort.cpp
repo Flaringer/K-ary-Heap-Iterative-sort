@@ -13,7 +13,7 @@ void iterativeHeapSort(std::vector<int>& array, int k) {
 
 int main() {
     std::vector<int> array = {10, 3, 15, 7, 8, 23, 74, 18};
-    int k = 3;  // Example k-ary heap with k = 3
+    int k = 3;
 
     std::cout << "Original array: ";
     for (int el : array) {

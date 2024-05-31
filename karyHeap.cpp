@@ -1,5 +1,3 @@
-// File: kary_heap.cpp
-
 #include <iostream>
 #include <vector>
 #include <stdexcept>
